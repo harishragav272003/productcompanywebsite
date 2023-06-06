@@ -321,4 +321,4 @@ Publish the website in the given URL.
 
 ## Result:
 
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
+Thus a website is designed for the product company and the HTML,CSS code are validated.
